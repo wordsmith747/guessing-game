@@ -15,3 +15,4 @@
 - The value of userGuess is compared against computerGuess and if they match the console logs the information "You've guessed the number" otherwise it logs "Try again".
 
 - At the end of the program anotherGameAnswer variable, which holds the string: "Do you want to play another game? Y/N   ", is introduced and if the user inputs N, the initial variable, set at the beginning of the program : continueWithTheGame, is set to false which terminates the main while loop and the console logs a Goodbye message.
+- 
